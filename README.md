@@ -10,4 +10,4 @@ Large Vision Language Models (LVLMs) demonstrate strong capabilities in multimod
 
 # How to use the code
 For performing the attack, please run the notebooks as per their names on corresponding models.
-For performing the defense, please uncomment the defense function before you print the generated response.
+For performing the defense, please place the defense function from the defense.py before you return the generated response.
